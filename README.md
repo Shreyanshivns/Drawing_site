@@ -1,4 +1,4 @@
-# Drawing_site
+# Drawingit
 A simple drawing app built with HTML, CSS, and JavaScript.
 
 Features
