@@ -1,4 +1,4 @@
-# Drawingit
+# Drawit
 A simple drawing app built with HTML, CSS, and JavaScript.
 
 Features
